@@ -1,0 +1,17 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "giuliaparca.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "engine": "^1.0.0",
+    "prompt-sync": "^4.2.0",
+    "workshop": "^0.0.0",
+    "workshop-engine": "^0.0.10"
+  }
+}
